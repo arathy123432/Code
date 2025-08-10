@@ -1,0 +1,23 @@
+This SQL code performs three main operations:
+
+1. Table Creation:
+It creates a table called Students with three columns:
+
+ID (an integer identifier)
+
+Name (a text field storing the student's name)
+
+Age (an integer storing the student's age)
+
+
+
+2. Data Insertion:
+The script inserts three rows with sample student data into the Students table.
+
+
+3. Data Retrieval:
+Finally, it retrieves all rows from the Students table using the SELECT * statement, which returns the full content of the table.
+
+
+
+The output is a simple table showing each student’s ID, name, and age.
